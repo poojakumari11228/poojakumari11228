@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojakumari11228](https://github.com/poojakumari11228)
 
-- 💬 Ask me about **Java, android, Spring, Springboot, SQL, BPM, Stored Procedures, REST APIs,**
+- 💬 Ask me about **Java, android, Spring, Springboot, SQL, BPM, Stored Procedures, REST APIs, ...**
 
 - 📫 How to reach me **https://www.linkedin.com/in/poojakumari11228/**
 
