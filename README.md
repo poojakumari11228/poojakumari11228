@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojakumari11228" alt="poojakumari11228" /></a> </p>
 
-- 🔭 I’m currently working at **FinTech**
+- 🔭 MSCS Computer Professionals Program at Maharishi International University, USA 
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojakumari11228](https://github.com/poojakumari11228)
 
