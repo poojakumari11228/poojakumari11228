@@ -3,20 +3,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojakumari11228" alt="poojakumari11228" /></a> </p>
 
-- 🔭 MSCS Computer Professionals Program at Maharishi International University, USA 
+- 💻 MSCS Computer Professionals Program at Maharishi International University, USA
+- 💙 Portfolio Website [https://www.poojakumari.click/](https://www.poojakumari.click/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojakumari11228](https://github.com/poojakumari11228)
 
 - 💬 Ask me about **Java, android, Spring, Springboot, SQL, BPM, Stored Procedures, REST APIs, ...**
 
-- 📫 How to reach me **https://www.linkedin.com/in/poojakumari11228/**
+- 📫 How to reach me **https://www.linkedin.com/in/poojakumari48/**
 
 - 📄 Know about my experiences [https://linktr.ee/poojakumari_](https://linktr.ee/poojakumari_)
+- 🔗 More about me [https://linktr.ee/poojakumari_](https://linktr.ee/poojakumari_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/poojakumari1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojakumari1122" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poojakumari11228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojakumari11228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poojakumari48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojakumari11228" height="30" width="40" /></a>
 <a href="https://medium.com/@poojakumari11228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@poojakumari11228" height="30" width="40" /></a>
 </p>
 
