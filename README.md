@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/poojakumari48/**
 
-- 📄 Know about my experiences [https://linktr.ee/poojakumari_](https://linktr.ee/poojakumari_)
 - 🔗 More about me [https://linktr.ee/poojakumari_](https://linktr.ee/poojakumari_)
 
 <h3 align="left">Connect with me:</h3>
