@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Kumari</h1>
+<h3 align="center">⭐Seeking full-time W-2 Employment Positions</h3>
 <h3 align="center">Software Engineer 👩‍💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojakumari11228" alt="poojakumari11228" /></a> </p>
 
-- 💻 MSCS Computer Professionals Program at Maharishi International University, USA
+- 💻 MSCS at Maharishi International University, USA (Via Distance Education)
+
 - 💙 Portfolio Website [https://www.poojakumari.click/](https://www.poojakumari.click/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojakumari11228](https://github.com/poojakumari11228)
